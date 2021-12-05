@@ -11,7 +11,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="/Public/JavaScript/noelclickforms-0.0.1.min.js"></script>
-    <link rel="stylesheet" href="/Public/Stylesheets/style.min.css">
+    <link rel="stylesheet" href="/Public/Stylesheets/noelclickforms-0.0.1.min.css">
 </head>
 <body>
 <div class="container">
