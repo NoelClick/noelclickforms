@@ -1,6 +1,6 @@
 # noelClickForms
 ## Description
-A useful JavaScript plugin to creat pretty forms.
+A useful JavaScript plugin to create pretty forms.
 
 All notable changes to this project will be documented in the **[Changelog](CHANGELOG.md)** file.
 
